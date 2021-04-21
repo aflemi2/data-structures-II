@@ -1,8 +1,6 @@
 # Test-first Data Structures
 
-*NOTE: you are encouraged to follow the workshop text for this repo, which covers the following in greater detail.*
-
-In this portion of the workshop, we are going to be writing the JavaScript implementations of Hash Tables and Binary Search Trees.
+JavaScript implementations of Hash Tables and Binary Search Trees. Test driver approach, Visuals to come.
 
 ## Running
 
@@ -16,4 +14,4 @@ BSTs are highly recursive structures — many of your methods should employ rec
 
 Keeping track of what is going where and how to access it in this suite may be tricky. Good variable and property names will be especially helpful here; try to keep things clear.
 
-### Extra Credit: Graph Algorthims
+### Graph Algorthims
